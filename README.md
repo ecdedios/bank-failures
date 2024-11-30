@@ -18,9 +18,11 @@ https://www.tandfonline.com/doi/full/10.1080/23322039.2023.2251272
 
 Written in Python 3.12. Libraries/packages used:
 
-- jupyter notebook
+- notebook
 - selenium
+- beautiful soup
 - pandas
+- pypdf2
 
 To see the project in action, open and run the notebooks.
 
