@@ -18,6 +18,8 @@ I downloaded 98 reports from the FDIC OIG website and read them using Python. I 
 
 The most interesting insight is the frequent mention of "cre adc loan" in the corpora, which suggests a relationship of CRE and ADC loans to why banks are failing.
 
+![CRE ADC Loan](https://github.com/ecdedios/bank-failures/blob/main/viz/trigram.png)
+
 ## Data
 
 https://www.fdicoig.gov/reports-publications/bank-failures
