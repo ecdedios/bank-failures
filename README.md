@@ -1,6 +1,6 @@
 # Bank Failure Investigation
 
-> An application of classical natural language processing and knowledge graphs.
+> Work in progress! An application of classical natural language processing and knowledge graphs.
 
 ## Motivation
 
